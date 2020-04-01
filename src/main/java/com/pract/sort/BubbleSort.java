@@ -4,7 +4,7 @@ public class BubbleSort {
 
 	public static void main(String[] args) {
 
-		int[] a = { 2, 5, 10, 4, 11, 1 };
+		int[] a = { 2, 5, 11, 4, 1, 10};
 		int count=0;
 		for (int i = 0; i < a.length; i++) {
 			count++;
